@@ -100,7 +100,7 @@ Official OBS studio integration plugin.
 Official Phipips Hue plugin.
 
 ---
-### Power toys
+### PowerToys
 > [Github](https://github.com/oddbear/Loupedeck.PowerToys.Plugin) • [Download](https://github.com/oddbear/Loupedeck.PowerToys.Plugin/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
 <br>**Windows support**: Yes
