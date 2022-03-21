@@ -2,6 +2,16 @@ name: Add new plugin
 description: File a request to add a new plugin
 title: "[NEW PLUGIN]: <title>"
 body:
+- type: dropdown
+  id: plugin_wip
+  attributes:
+    label: WIP
+    description: Is the plugin still WIP?
+    options:
+      - 'No'
+      - 'Yes'
+  validations:
+    required: true
 - type: input
   id: plugin_author
   attributes:
