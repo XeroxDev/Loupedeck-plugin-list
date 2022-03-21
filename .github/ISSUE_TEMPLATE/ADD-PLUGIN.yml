@@ -36,9 +36,9 @@ body:
     label: Support Windows
     description: Does the plugin support Windows?
     options:
-      - Yes
-      - No
-      - Untested
+      - 'Yes'
+      - 'No'
+      - 'Untested'
   validations:
     required: true
 - type: dropdown
@@ -47,8 +47,8 @@ body:
     label: Support Mac
     description: Does the plugin support Mac?
     options:
-      - Yes
-      - No
-      - Untested
+      - 'Yes'
+      - 'No'
+      - 'Untested'
   validations:
     required: true
