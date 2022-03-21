@@ -7,6 +7,7 @@ You've two options to do this:
 ### Option 1:
 1. Make sure your plugin github repo has the `loupedeck-plugin` [topic](https://github.com/topics/loupedeck-plugin) added.
 1. [Edit the plugin list on GitHub](https://github.com/XeroxDev/Loupedeck-plugin-list/edit/master/index.md) and add your plugin's details in alphabetical order. Use the following template:
+  
 ```Markdown
 ---
 ### Plugin name
