@@ -1,10 +1,10 @@
 # Loupedeck plugin list
-This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. To have your plugin listed here, see [this page](developers.md). There's also the [WIP plugin list](wip_plugins.md).
+This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. To have your plugin listed here, see [this page](developers.md).
 
 **The install and use of plugins listed below is done at your own risk.**
 
 ## Table of contents
-{::options toc_levels="3"}
+{::options toc_levels="3" /}
 * TOC
 {:toc}
 
@@ -188,3 +188,12 @@ Simple widget for showing weather info in a given location.
 <br>**Mac support**: Untested
 
 This Loupedeck Plugin allows you to control the [YouTube Music Desktop App](https://github.com/ytmdesktop/ytmdesktop).
+
+## WIP plugins
+This is a list of plugins that are currently work in progress. It is here to prevent situations where two people would be working on the same plugin. To have your plugin listed here, see [this page](developers.md).
+
+### Discord
+> **WIP**
+<br>**Author**: [Danol](https://github.com/CZDanol)
+
+Integration for Discord - voice chat individual users volume control and more.
