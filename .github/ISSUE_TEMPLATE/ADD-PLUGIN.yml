@@ -1,0 +1,54 @@
+name: Add new plugin
+description: File a request to add a new plugin
+title: "[NEW PLUGIN]: <title>"
+body:
+- type: markdown
+  id: plugin_author
+  attributes:
+    label: Author
+    description: Who is the Author of the plugin?
+  validations:
+    required: true
+- type: input
+  id: plugin_title
+  attributes:
+    label: Name
+    description: The name of the plugin
+  validations:
+    required: true
+- type: input
+  id: plugin_url
+  attributes:
+    label: Link
+    description: A link to the plugin
+  validations:
+    required: true
+- type: markdown
+  id: plugin_description
+  attributes:
+    label: Description
+    description: A small description of the plugin.
+  validations:
+    required: true
+- type: dropdown
+  id: plugin_windows_support
+  attributes:
+    label: Support Windows
+    description: Does the plugin support Windows?
+    options:
+      - Yes
+      - No
+      - Untested
+  validations:
+    required: true
+- type: dropdown
+  id: plugin_mac_support
+  attributes:
+    label: Support Mac
+    description: Does the plugin support Mac?
+    options:
+      - Yes
+      - No
+      - Untested
+  validations:
+    required: true
