@@ -1,5 +1,5 @@
 # Plugins List
-This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. If you want your plugin listed here, see [this page](developers.md).
+This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. To have your plugin listed here, see [this page](developers.md). There's also the [WIP plugin list](wip_plugins.md).
 
 **The install and use of plugins listed below is done at your own risk.**
 
@@ -10,13 +10,6 @@ This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) d
 <br>**Mac support**: Yes
 
 A plugin that shows the date or time using a supplied format string.
-
----
-## Discord
-> **WIP**
-<br>**Author**: [Danol](https://github.com/CZDanol)
-
-Integration for Discord - voice chat individual users volume control and more.
 
 ---
 ## Elgato control
