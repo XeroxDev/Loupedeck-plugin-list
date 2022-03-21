@@ -5,7 +5,18 @@ You made an awesome Loupedeck plugin and want to share it with everyone?
 You've two options to do this:
 
 ### Option 1:
-1. [Edit the plugin list on GitHub](https://github.com/XeroxDev/Loupedeck-plugin-list/edit/master/index.md) and add your plugin's details in alphabetical order.
+1. [Edit the plugin list on GitHub](https://github.com/XeroxDev/Loupedeck-plugin-list/edit/master/index.md) and add your plugin's details in alphabetical order. Use the following template:
+```Markdown
+	---
+	## Plugin name
+	> [Webpage](webpage link) • [Github](github link) • [Download](download link)
+	<br>**Author**: [Nick](link)
+	<br>**Windows support**: Yes/No/...
+	<br>**Mac support**: Yes/No/...
+
+	Description.
+```
+
 2. Follow the GitHub prompts to submit a pull request with your changes. They'll be reviewed quickly and your new plugin will soon be listed on https://loupedeck-plugins.tswi.me/
 
 ### Option 2:
