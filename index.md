@@ -1,7 +1,12 @@
-# Plugins List
+# Loupedeck plugin list
 This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. To have your plugin listed here, see [this page](developers.md). There's also the [WIP plugin list](wip_plugins.md).
 
 **The install and use of plugins listed below is done at your own risk.**
+
+## Table of contents
+* TOC {:toc}
+
+## Plugins
 
 ## Date/time
 > [Github](https://github.com/adierkens/Loupedeck-Date-Time-Plugin) • [Download](https://github.com/adierkens/Loupedeck-Date-Time-Plugin/releases)
