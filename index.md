@@ -1,5 +1,5 @@
 # Plugins List
-This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. If you want your plugin listed here, see [read this page](developers.md).
+This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. If you want your plugin listed here, see [this page](developers.md).
 
 **The install and use of plugins listed below is done at your own risk.**
 
