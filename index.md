@@ -9,7 +9,7 @@ This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) d
 
 ## Plugins
 
-## Date/time
+### Date/time
 > [Github](https://github.com/adierkens/Loupedeck-Date-Time-Plugin) • [Download](https://github.com/adierkens/Loupedeck-Date-Time-Plugin/releases)
 <br>**Author**: [aiderkens](https://github.com/adierkens)
 <br>**Windows support**: Yes
@@ -18,7 +18,7 @@ This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) d
 A plugin that shows the date or time using a supplied format string.
 
 ---
-## Elgato control
+### Elgato control
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/elgato-control/home)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
 <br>**Windows support**: Yes
@@ -27,7 +27,7 @@ A plugin that shows the date or time using a supplied format string.
 This Loupedeck Plugin allows you to control your elgato devices.
 
 ---
-## GoXLR
+### GoXLR
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/third-party/oddbear/goxlr/home) • [Github](https://github.com/oddbear/Loupedeck.GoXLR.Plugin)
 <br>**Author**: [oddbear](https://github.com/oddbear)
 <br>**Windows support**: Yes
@@ -36,7 +36,7 @@ This Loupedeck Plugin allows you to control your elgato devices.
 This Loupedeck Plugin allows you to control the GoXLR App for the GoXLR Mini or Full.
 
 ---
-## Hubitat
+### Hubitat
 > [Github](https://github.com/timesscar/ArcaneLogic.LoupeDeck.Hubitat) • [Download](https://github.com/timesscar/ArcaneLogic.LoupeDeck.Hubitat/releases)
 <br>**Author**: [timesscar]([link](https://github.com/timesscar))
 <br>**Windows support**: Not released
@@ -45,7 +45,7 @@ This Loupedeck Plugin allows you to control the GoXLR App for the GoXLR Mini or 
 This is a basic Loupedeck plugin that enables toggling devices connected to a Hubitat home automation node.
 
 ---
-## KeyLight
+### KeyLight
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/third-party/oddbear/keylight/home) • [Github](https://github.com/oddbear/Loupedeck.KeyLight.Plugin) • [Download](https://github.com/oddbear/Loupedeck.KeyLight.Plugin/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
 <br>**Windows support**: Yes
@@ -54,7 +54,7 @@ This is a basic Loupedeck plugin that enables toggling devices connected to a Hu
 This Loupedeck Plugin allows you to control the Elgato KeyLight. It's basiclly the same as the elgato-control plugin.
 
 ---
-## MIDI
+### MIDI
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
 <br>**Windows support**: Yes
@@ -63,7 +63,7 @@ This Loupedeck Plugin allows you to control the Elgato KeyLight. It's basiclly t
 Official MIDI plugin.
 
 ---
-## Microsoft Flight Simulator
+### Microsoft Flight Simulator
 > [Github](https://github.com/calibx/msfsdeck) • [Download](https://github.com/calibx/msfsdeck/releases)
 <br>**Author**: [calibx](https://github.com/calibx)
 <br>**Windows support**: Yes
@@ -72,7 +72,7 @@ Official MIDI plugin.
 The aim of this plugin is to use the Loupedeck Live to control MSFS.
 
 ---
-## NanoleafControl
+### NanoleafControl
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/nanoleaf-control/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-NanoleafControl) • [Download](https://github.com/XeroxDev/Loupedeck-plugin-NanoleafControl)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
 <br>**Windows support**: Yes
@@ -81,7 +81,7 @@ The aim of this plugin is to use the Loupedeck Live to control MSFS.
 This Loupedeck Plugin allows you to control your Nanoleaf devices!
 
 ---
-## OBS Studio
+### OBS Studio
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
 <br>**Windows support**: Yes
@@ -90,7 +90,7 @@ This Loupedeck Plugin allows you to control your Nanoleaf devices!
 Official OBS studio integration plugin.
 
 ---
-## Philips Hue
+### Philips Hue
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
 <br>**Windows support**: Yes
@@ -99,7 +99,7 @@ Official OBS studio integration plugin.
 Official Phipips Hue plugin.
 
 ---
-## Power toys
+### Power toys
 > [Github](https://github.com/oddbear/Loupedeck.PowerToys.Plugin) • [Download](https://github.com/oddbear/Loupedeck.PowerToys.Plugin/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
 <br>**Windows support**: Yes
@@ -108,7 +108,7 @@ Official Phipips Hue plugin.
 [Microsoft PowerToys](https://github.com/microsoft/PowerToys) plugin (unofficial) for the Loupedeck (live) interface.
 
 ---
-## PreSonus Revelator io24 API
+### PreSonus Revelator io24 API
 > [Github](https://github.com/oddbear/Revelator.io24.Api) • [Download](https://github.com/oddbear/Revelator.io24.Api/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
 <br>**Windows support**: Yes
@@ -117,7 +117,7 @@ Official Phipips Hue plugin.
 This project is to be able to control a PreSonus Revelator io24 interface through an API. This way we can have automations and plugins for Stream Deck, Touch Portal, Loupedeck, and more.
 
 ---
-## Speedtest
+### Speedtest
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/speedtest/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-Speedtest) • [Download](https://github.com/XeroxDev/Loupedeck-plugin-Speedtest/releases)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
 <br>**Windows support**: Yes
@@ -126,7 +126,7 @@ This project is to be able to control a PreSonus Revelator io24 interface throug
 This Loupedeck Plugin allows you to control the test your internet connection. It shows Ping, download and upload speed.
 
 ---
-## Spotify Premium
+### Spotify Premium
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
 <br>**Windows support**: Yes
@@ -135,7 +135,7 @@ This Loupedeck Plugin allows you to control the test your internet connection. I
 Official Spotify integration.
 
 ---
-## Streamlabs OBS
+### Streamlabs OBS
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
 <br>**Windows support**: Yes
@@ -144,7 +144,7 @@ Official Spotify integration.
 Official Streamlabs OBS integration.
 
 ---
-## Twitch
+### Twitch
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
 <br>**Windows support**: Yes
@@ -153,7 +153,7 @@ Official Streamlabs OBS integration.
 Official Twitch integration.
 
 ---
-## VoiceMeeter
+### VoiceMeeter
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/voicemeeter/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-VoiceMeeter) • [Download](https://github.com/XeroxDev/Loupedeck-plugin-VoiceMeeter/releases)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
 <br>**Windows support**: Yes
@@ -162,7 +162,7 @@ Official Twitch integration.
 This Loupedeck Plugin allows you to control the VoiceMeeter application.
 
 ---
-## VolumeControl
+### VolumeControl
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/third-party/oddbear/volumecontrol/home) • [Github](https://github.com/oddbear/Loupedeck.VolumeControl.Plugin) • [Download](https://github.com/oddbear/Loupedeck.VolumeControl.Plugin/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
 <br>**Windows support**: Yes
@@ -171,7 +171,7 @@ This Loupedeck Plugin allows you to control the VoiceMeeter application.
 This plugin allows you to control the volume of Windows audio devices and applications.
 
 ---
-## Weather widget
+### Weather widget
 > [Github](https://github.com/CZDanol/loupedeck-weatherwidget) • [Download](https://github.com/CZDanol/loupedeck-weatherwidget/releases)
 <br>**Author**: [Danol](https://github.com/CZDanol)
 <br>**Windows support**: Yes
@@ -180,7 +180,7 @@ This plugin allows you to control the volume of Windows audio devices and applic
 Simple widget for showing weather info in a given location.
 
 ---
-## YouTube Music Desktop
+### YouTube Music Desktop
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/ytmd/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-YTMDesktop) • [Download](https://github.com/XeroxDev/Loupedeck-plugin-YTMDesktop/releases)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
 <br>**Windows support**: Yes

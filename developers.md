@@ -9,7 +9,7 @@ You've two options to do this:
 1. [Edit the plugin list on GitHub](https://github.com/XeroxDev/Loupedeck-plugin-list/edit/master/index.md) and add your plugin's details in alphabetical order. Use the following template:
 ```Markdown
 ---
-## Plugin name
+### Plugin name
 > [Webpage](webpage link) • [Github](github link) • [Download](download link)
 <br>**Author**: [Nick](link)
 <br>**Windows support**: Yes/No/...
