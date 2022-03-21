@@ -2,7 +2,7 @@ name: Add new plugin
 description: File a request to add a new plugin
 title: "[NEW PLUGIN]: <title>"
 body:
-- type: markdown
+- type: textarea
   id: plugin_author
   attributes:
     label: Author
@@ -23,7 +23,7 @@ body:
     description: A link to the plugin
   validations:
     required: true
-- type: markdown
+- type: textarea
   id: plugin_description
   attributes:
     label: Description
