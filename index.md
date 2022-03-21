@@ -127,7 +127,7 @@ This plugin allows you to control the volume of Windows audio devices and applic
 
 ---
 ## Weather widget
-> [Github](https://github.com/CZDanol/loupedeck-weatherwidget) | [Download](https://github.com/CZDanol/loupedeck-weatherwidget/releases)
+> [Github](https://github.com/CZDanol/loupedeck-weatherwidget) • [Download](https://github.com/CZDanol/loupedeck-weatherwidget/releases)
 <br>**Author**: [Danol](https://github.com/CZDanol)
 <br>**Windows support**: Yes
 <br>**Mac support**: ?
@@ -136,7 +136,7 @@ Simple widget for showing weather info in a given location.
 
 ---
 ## YouTube Music Desktop
-> [Webpage](https://help.xeroxdev.de/en/loupedeck/ytmd/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-YTMDesktop) | [Download](https://github.com/XeroxDev/Loupedeck-plugin-YTMDesktop/releases)
+> [Webpage](https://help.xeroxdev.de/en/loupedeck/ytmd/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-YTMDesktop) • [Download](https://github.com/XeroxDev/Loupedeck-plugin-YTMDesktop/releases)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
 <br>**Windows support**: Yes
 <br>**Mac support**: Untested
