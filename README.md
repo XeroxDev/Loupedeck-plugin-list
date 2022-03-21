@@ -1,0 +1,1 @@
+Loupedeck-plugin-list
