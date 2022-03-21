@@ -1,7 +1,17 @@
-Below is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. If you want your plugin listed here, see [read this page](developers.md).
-
 # Plugins List
+This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) devices. If you want your plugin listed here, see [read this page](developers.md).
 
+**The install and use of plugins listed below is done at your own risk.**
+
+## Date/time
+> [Github](https://github.com/adierkens/Loupedeck-Date-Time-Plugin) • [Download](https://github.com/adierkens/Loupedeck-Date-Time-Plugin/releases)
+<br>**Author**: [aiderkens](https://github.com/adierkens)
+<br>**Windows support**: Yes
+<br>**Mac support**: Yes
+
+A plugin that shows the date or time using a supplied format string.
+
+---
 ## Discord
 > **WIP**
 <br>**Author**: [Danol](https://github.com/CZDanol)
@@ -27,6 +37,15 @@ This Loupedeck Plugin allows you to control your elgato devices.
 This Loupedeck Plugin allows you to control the GoXLR App for the GoXLR Mini or Full.
 
 ---
+## Hubitat
+> [Github](https://github.com/timesscar/ArcaneLogic.LoupeDeck.Hubitat) • [Download](https://github.com/timesscar/ArcaneLogic.LoupeDeck.Hubitat/releases)
+<br>**Author**: [timesscar]([link](https://github.com/timesscar))
+<br>**Windows support**: Not released
+<br>**Mac support**: Not released
+
+This is a basic Loupedeck plugin that enables toggling devices connected to a Hubitat home automation node.
+
+---
 ## KeyLight
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/third-party/oddbear/keylight/home) • [Github](https://github.com/oddbear/Loupedeck.KeyLight.Plugin) • [Download](https://github.com/oddbear/Loupedeck.KeyLight.Plugin/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
@@ -43,6 +62,15 @@ This Loupedeck Plugin allows you to control the Elgato KeyLight. It's basiclly t
 <br>**Mac support**: Yes
 
 Official MIDI plugin.
+
+---
+## Microsoft Flight Simulator
+> [Github](https://github.com/calibx/msfsdeck) • [Download](https://github.com/calibx/msfsdeck/releases)
+<br>**Author**: [calibx](https://github.com/calibx)
+<br>**Windows support**: Yes
+<br>**Mac support**: ?
+
+The aim of this plugin is to use the Loupedeck Live to control MSFS.
 
 ---
 ## NanoleafControl
@@ -70,6 +98,24 @@ Official OBS studio integration plugin.
 <br>**Mac support**: Yes
 
 Official Phipips Hue plugin.
+
+---
+## Power toys
+> [Github](https://github.com/oddbear/Loupedeck.PowerToys.Plugin) • [Download](https://github.com/oddbear/Loupedeck.PowerToys.Plugin/releases)
+<br>**Author**: [oddbear](https://github.com/oddbear)
+<br>**Windows support**: Yes
+<br>**Mac support**: Untested
+
+[Microsoft PowerToys](https://github.com/microsoft/PowerToys) plugin (unofficial) for the Loupedeck (live) interface.
+
+---
+## PreSonus Revelator io24 API
+> [Github](https://github.com/oddbear/Revelator.io24.Api) • [Download](https://github.com/oddbear/Revelator.io24.Api/releases)
+<br>**Author**: [oddbear](https://github.com/oddbear)
+<br>**Windows support**: Yes
+<br>**Mac support**: Untested
+
+This project is to be able to control a PreSonus Revelator io24 interface through an API. This way we can have automations and plugins for Stream Deck, Touch Portal, Loupedeck, and more.
 
 ---
 ## Speedtest
@@ -120,8 +166,8 @@ This Loupedeck Plugin allows you to control the VoiceMeeter application.
 ## VolumeControl
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/third-party/oddbear/volumecontrol/home) • [Github](https://github.com/oddbear/Loupedeck.VolumeControl.Plugin) • [Download](https://github.com/oddbear/Loupedeck.VolumeControl.Plugin/releases)
 <br>**Author**: [oddbear](https://github.com/oddbear)
-<br>**Windows support**: 
-<br>**Mac support**: 
+<br>**Windows support**: Yes
+<br>**Mac support**: Untested
 
 This plugin allows you to control the volume of Windows audio devices and applications.
 
