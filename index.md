@@ -4,6 +4,7 @@ This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) d
 **The install and use of plugins listed below is done at your own risk.**
 
 ## Table of contents
+{: .no_toc}
 {::options toc_levels="2,3" /}
 * TOC
 {:toc}
