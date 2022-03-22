@@ -201,7 +201,7 @@ Integration for Discord - voice chat individual users volume control and more.
 
 ---
 ### DNL MIDI
-> **WIP** • [Github](https://github.com/CZDanol/loupedeck-dnlmidi)
+> [Github](https://github.com/CZDanol/loupedeck-dnlmidi)
 <br>**Author**: [Danol](https://github.com/CZDanol)
 
 MIDI control plugin for DAWS – will include Mackie Control emulator (pulls track names from the daw & overall better integration with DAWs) and piano with pitch/bend touch support.
