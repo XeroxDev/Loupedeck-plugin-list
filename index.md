@@ -199,6 +199,7 @@ This is a list of plugins that are currently work in progress. It is here to pre
 
 Integration for Discord - voice chat individual users volume control and more.
 
+---
 ### DNL MIDI
 > **WIP** • [Github](https://github.com/CZDanol/loupedeck-dnlmidi)
 <br>**Author**: [Danol](https://github.com/CZDanol)
