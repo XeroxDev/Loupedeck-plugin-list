@@ -205,3 +205,10 @@ Integration for Discord - voice chat individual users volume control and more.
 <br>**Author**: [Danol](https://github.com/CZDanol)
 
 MIDI control plugin for DAWS – will include Mackie Control emulator (pulls track names from the daw & overall better integration with DAWs) and piano with pitch/bend touch support.
+
+---
+### VoiceMod
+> **WIP**
+<br>**Author**: [XeroxDev](https://github.com/XeroxDev)
+
+Integration for VoiceMod. Use the power of VoiceMod on your loupedeck!
