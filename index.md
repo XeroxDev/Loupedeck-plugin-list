@@ -20,6 +20,15 @@ This is a curated list of plugins for your [Loupedeck](https://loupedeck.com/) d
 A plugin that shows the date or time using a supplied format string.
 
 ---
+### DNL MIDI
+> [Github](https://github.com/CZDanol/loupedeck-dnlmidi) • [Download](https://github.com/CZDanol/loupedeck-dnlmidi)
+<br>**Author**: [Danol](https://github.com/CZDanol)
+<br>**Windows support**: Yes
+<br>**Mac support**: No
+
+MIDI control plugin for DAWS – emulates Mackie Control (pulls track names from the daw & overall better integration with DAWs) and MIDI piano grid.
+
+---
 ### Elgato control
 > [Webpage](https://help.xeroxdev.de/en/loupedeck/elgato-control/home)
 <br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
@@ -198,10 +207,3 @@ This is a list of plugins that are currently work in progress. It is here to pre
 <br>**Author**: [Danol](https://github.com/CZDanol)
 
 Integration for Discord - voice chat individual users volume control and more.
-
----
-### DNL MIDI
-> [Github](https://github.com/CZDanol/loupedeck-dnlmidi)
-<br>**Author**: [Danol](https://github.com/CZDanol)
-
-MIDI control plugin for DAWS – will include Mackie Control emulator (pulls track names from the daw & overall better integration with DAWs) and piano with pitch/bend touch support.
