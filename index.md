@@ -206,9 +206,6 @@ This is a list of plugins that are currently work in progress. It is here to pre
 > **WIP**
 <br>**Author**: [Danol](https://github.com/CZDanol)
 
-<<<<<<< HEAD
-Integration for Discord - voice chat individual users volume control and more.
-=======
 Integration for Discord - voice chat individual users volume control and more.
 
 ---
