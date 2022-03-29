@@ -21,7 +21,7 @@ A plugin that shows the date or time using a supplied format string.
 
 ---
 ### DNL MIDI
-> [Github](https://github.com/CZDanol/loupedeck-dnlmidi) • [Download](https://github.com/CZDanol/loupedeck-dnlmidi)
+> [Github](https://github.com/CZDanol/loupedeck-dnlmidi) • [Download](https://github.com/CZDanol/loupedeck-dnlmidi/releases)
 <br>**Author**: [Danol](https://github.com/CZDanol)
 <br>**Windows support**: Yes
 <br>**Mac support**: No
@@ -186,7 +186,7 @@ This plugin allows you to control the volume of Windows audio devices and applic
 > [Github](https://github.com/CZDanol/loupedeck-weatherwidget) • [Download](https://github.com/CZDanol/loupedeck-weatherwidget/releases)
 <br>**Author**: [Danol](https://github.com/CZDanol)
 <br>**Windows support**: Yes
-<br>**Mac support**: ?
+<br>**Mac support**: No, but you can try compiling it yourself
 
 Simple widget for showing weather info in a given location.
 
@@ -206,4 +206,14 @@ This is a list of plugins that are currently work in progress. It is here to pre
 > **WIP**
 <br>**Author**: [Danol](https://github.com/CZDanol)
 
+<<<<<<< HEAD
 Integration for Discord - voice chat individual users volume control and more.
+=======
+Integration for Discord - voice chat individual users volume control and more.
+
+---
+### VoiceMod
+> **WIP**
+<br>**Author**: [XeroxDev](https://github.com/XeroxDev)
+
+Integration for VoiceMod. Use the power of VoiceMod on your loupedeck!
