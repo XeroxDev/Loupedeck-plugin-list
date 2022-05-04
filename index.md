@@ -146,6 +146,15 @@ This Loupedeck Plugin allows you to control the test your internet connection. I
 Official Spotify integration.
 
 ---
+### Streamer.bot
+> [Webpage](https://help.xeroxdev.de/en/loupedeck/streamerbot/home) • [Github](https://github.com/XeroxDev/Loupedeck-plugin-StreamerBot) • [Download](https://github.com/XeroxDev/Loupedeck-plugin-StreamerBot/releases)
+<br>**Author**: [XeroxDev](https://github.com/XeroxDev/)
+<br>**Windows support**: Yes
+<br>**Mac support**: Untested
+
+With this plugin you can execute actions on your Streamer.bot application.
+
+---
 ### Streamlabs OBS
 > Preinstalled
 <br>**Author**: [Loupedeck](https://loupedeck.com/)
@@ -171,6 +180,15 @@ Official Twitch integration.
 <br>**Mac support**: Untested
 
 This Loupedeck Plugin allows you to control the VoiceMeeter application.
+
+---
+### Voicemod
+> [Webpage](https://www.voicemod.net/) • Download: Loupedeck Marketplace
+<br>**Author**: [Voicemod](https://www.voicemod.net/) (Developed by [XeroxDev](https://github.com/XeroxDev/))
+<br>**Windows support**: Yes
+<br>**MAc support**: No
+
+This Loupedeck Plugin allows you to control the Voicemod application.
 
 ---
 ### VolumeControl
@@ -207,10 +225,3 @@ This is a list of plugins that are currently work in progress. It is here to pre
 <br>**Author**: [Danol](https://github.com/CZDanol)
 
 Integration for Discord - voice chat individual users volume control and more.
-
----
-### VoiceMod
-> **WIP**
-<br>**Author**: [XeroxDev](https://github.com/XeroxDev)
-
-Integration for VoiceMod. Use the power of VoiceMod on your loupedeck!
